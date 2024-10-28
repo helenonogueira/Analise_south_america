@@ -35,3 +35,6 @@ Os resultados da análise são salvos na pasta `outputs`:
 1. Certifique-se de ter as bibliotecas necessárias instaladas (`pandas`, `matplotlib`, `seaborn`, `geopandas`).
 2. Coloque os arquivos de dados na pasta `dados/`.
 3. Execute o código `analise_socioeconomica.py`.
+
+
+## Clone do Repositório : 
