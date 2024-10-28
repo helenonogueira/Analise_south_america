@@ -1,0 +1,461 @@
+Country Name,Country Code,Series Name,Series Code,2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023]
+Argentina,ARG,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,57.783,51.029,46.153,39.866,39.065,37.932,..
+Argentina,ARG,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.23162237725058,4.53787889681146,5.3185559967348,6.35703367575527,7.30630885522762,6.63989827840203,6.05950876262449
+Argentina,ARG,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,12.9075342465753,12.9075342465753,12.9075342465753,12.9075342465753,..,..,..
+Argentina,ARG,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,93.9,99.5,99.6,98.8,..,..,..
+Argentina,ARG,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.07011168693629,3.97565074444479,3.74202981162433,3.4056175404138,..,..,..
+Argentina,ARG,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,70.1,..,..,..
+Argentina,ARG,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,38.8683983871173,..,..,..,..,..,..
+Argentina,ARG,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Argentina,ARG,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Argentina,ARG,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,11.3202833596733,14.4366857499034,17.9248783778462,16.6054144372484,17.9965879441795,16.2995616770379,12.9194246104445
+Argentina,ARG,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,225925335186.1,277827089406.2,280684783388,255558142878.8,246306711414,247680809683.7,..
+Argentina,ARG,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.168,2.039,1.994,1.911,1.885,1.876,..
+Argentina,ARG,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,11516861462.2845,11716769818.7543,6649187837.98606,4884127675.95708,6658049679.27728,15200600517.715,23866141439.654
+Argentina,ARG,Forest area (sq. km),AG.LND.FRST.K2,288990,287910,286810,285730,284636.667,..,..
+Argentina,ARG,GDP (current US$),NY.GDP.MKTP.CD,643628393281.364,524819892360.176,447754683615.225,385740508436.965,487902572164.348,631133384439.944,640591410663.883
+Argentina,ARG,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,2.81850297775918,-2.61739646282038,-2.00086100285785,-9.9004848136464,10.7180099337095,4.95636996008236,-1.55050153620256
+Argentina,ARG,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,13140,12430,11220,9010,9980,11590,12520
+Argentina,ARG,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,22910,23620,22610,21700,25560,28490,28710
+Argentina,ARG,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,578798149500.896,553193024104.448,504056284870.866,408628794998.707,457384679384.196,535914326285.561,584110020477.579
+Argentina,ARG,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,1009263951777.66,1051149861699.34,1016089122555.92,984724060445.269,1170900901138.4,1317041518448.73,1339423418009.87
+Argentina,ARG,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,18.2125671747754,16.6138850156371,14.2100303992191,14.4151557410245,18.0573400196077,17.6250450078199,19.4719102386762
+Argentina,ARG,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,9.2054192542743,5.40298410981277,5.21279058881723,6.90388925607922,4.42289139264312,4.7515752362265,..
+Argentina,ARG,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,89,94,86,77,86,83,..
+Argentina,ARG,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,13.9693177780045,16.3258502050892,14.7057366680037,13.5982843701675,14.9334363103503,15.3509522986127,14.0523919218016
+Argentina,ARG,Income share held by lowest 20%,SI.DST.FRST.20,5,4.9,4.6,4.7,5,5.4,..
+Argentina,ARG,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,21.782123219335,23.7195923321304,23.1578477391434,22.4088763711802,23.9172428049615,24.1637048898657,25.0663875841191
+Argentina,ARG,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,26.0063792819079,42.0336689575031,49.1955790596612,40.0830878011993,53.8404499043736,69.4712395512144,133.839867291437
+Argentina,ARG,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.833,76.999,77.284,75.892,75.39,76.064,..
+Argentina,ARG,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,19.5114139324649,24.2488903055263,25.5139709712499,25.208138080704,28.9238073441564,26.9304404093321,21.9331695150875
+Argentina,ARG,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.856137916373543,0.732300347538541,0.699696134379197,0.734492612232545,0.630928835372215,0.411211298762518,..
+Argentina,ARG,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,140.5014607,131.9371685,125.9409814,121.6001889,130.4550081,132.3578095,..
+Argentina,ARG,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,11,10.6,10.3,10,9.7,9.4,..
+Argentina,ARG,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,103.0075883754,104.24246564,103.3360441909,103.9751808948,113.8988462454,..,..
+Argentina,ARG,Net migration,SM.POP.NETM,4926,4690,4478,2344,2344,3886,3718
+Argentina,ARG,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,-1169999.95708466,73220001.2207031,8890000.34332275,101730003.356934,155259994.506836,384070007.324219,..
+Argentina,ARG,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,479937459.808431,522441503.008565,561398444.719758,648090050.021815,902789422.017933,1056459895.66862,1009693898.95111
+Argentina,ARG,Population density (people per sq. km of land area),EN.POP.DNST,16.0941907925267,16.2585100979651,16.4208266190179,16.580892611147,16.7387416916056,..,..
+Argentina,ARG,Population growth (annual %),SP.POP.GROW,1.03713389686514,1.01580834908002,0.993397493293046,0.970053991438048,0.947490959333989,0.925835473662058,0.903771167435598
+Argentina,ARG,"Population, total",SP.POP.TOTL,44044811,44494502,44938712,45376763,45808747,46234830,46654581
+Argentina,ARG,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.6,1,1.1,1.2,0.9,0.6,..
+Argentina,ARG,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,25.7,32,35.5,42,37.3,39.2,..
+Argentina,ARG,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4,0.4,0.4,0.4,0.4,0.4,..
+Argentina,ARG,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,2,..,..,..,..,..
+Argentina,ARG,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,101.581809997559,100.281806945801,100.38289642334,103.837791442871,105.479530334473,..,..
+Argentina,ARG,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,10.7570752405482,9.4478900440863,10.8023208103298,9.60799327211015,10.7506948582872,10.5914056508435,..
+Argentina,ARG,"School enrollment, primary (% gross)",SE.PRM.ENRR,111.681457519531,111.545608520508,111.36531829834,110.617813110352,110.156112670898,..,..
+Argentina,ARG,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01962995529175,1.02131998538971,1.02056002616882,1.0242600440979,..,..,..
+Argentina,ARG,"School enrollment, secondary (% gross)",SE.SEC.ENRR,110.412406921387,109.696998596191,110.498527526855,112.416679382324,116.559448242188,..,..
+Argentina,ARG,Surface area (sq. km),AG.SRF.TOTL.K2,2780400,2780400,2780400,2780400,2780400,..,..
+Argentina,ARG,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,8.39608081981166,7.3624492288075,7.99867448307238,8.03863055414871,8.79392955783953,8.48390486756742,..
+Argentina,ARG,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,7.40512875012761,7.40512875012761,9.39316507147205,9.39797629654303,9.39797629654303,9.55264564367104,..
+Argentina,ARG,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,51.7302547597257,51.5485845475577,50.8330976382054,43.0976319782414,28.8076658366335,31.7992292357312,..
+Argentina,ARG,Urban population growth (annual %),SP.URB.GROW,1.17019595911431,1.14760215897919,1.12501972603644,1.10041505272326,1.07551503856124,1.0536956642987,1.02930606084609
+Argentina,ARG,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,99.8,99.8,99.9,99.9,99.9,99.9,..
+Argentina,ARG,Access to electricity (% of population),EG.ELC.ACCS.ZS,100,100,100,100,100,100,..
+Argentina,ARG,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,9.36187610139523,9.85415555635774,11.3164002084426,17.3288836903957,12.1258917269735,..,..
+Argentina,ARG,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,17.5964944783087,..,..,..,..
+Argentina,ARG,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Argentina,ARG,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,1494.83605957,1216.10681152,1016.23083496,895.08465576,1044.77270508,..,..
+Argentina,ARG,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,..,..,..,..,..,..,..
+Argentina,ARG,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,..,..,..,..,..,..,..
+Argentina,ARG,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,..,..,..,..,..,..,..
+Argentina,ARG,"Population, male",SP.POP.TOTL.MA.IN,21800696,22027014,22249019,22465694,22678199,22889298,23099192
+Argentina,ARG,"Population, female",SP.POP.TOTL.FE.IN,22244116,22467488,22689693,22911069,23130548,23345532,23555389
+Argentina,ARG,Tax payments (number),IC.TAX.PAYM,9,9,9,..,..,..,..
+Brazil,BRA,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,55.566,53.436,50.015,46.296,45.2,43.582,..
+Brazil,BRA,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.60059169575972,4.42039930378329,4.2050140943502,5.71148511544041,6.55876261159667,5.76747490819457,6.24138467625666
+Brazil,BRA,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,1.16021904257198,1.17470411588059,1.19130895601484,1.18689277512807,..,..,..
+Brazil,BRA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,98.7,98.8,98.4,98.4,..,..,..
+Brazil,BRA,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.18548661863967,2.06426147881772,2.05077012882977,1.94252335631484,..,..,..
+Brazil,BRA,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,..,..,..,..
+Brazil,BRA,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,..,..,..,..,..,..,..
+Brazil,BRA,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Brazil,BRA,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Brazil,BRA,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,12.5189678700669,14.6349994952986,14.1229191903622,16.4535520107044,19.1094303673866,19.6307650034371,18.1102794216442
+Brazil,BRA,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,543000470110.9,557765380774.6,568708887352.2,549300435898.2,571506915117.1,578599020063.3,..
+Brazil,BRA,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.736,1.749,1.703,1.649,1.641,1.626,..
+Brazil,BRA,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,68885491315.23,78183840044.98,69174411753.45,38270116307.45,46440503520.19,74606361830.23,64227330465.83
+Brazil,BRA,Forest area (sq. km),AG.LND.FRST.K2,5000916,4990514,4977985,4966196,4953913.667,..,..
+Brazil,BRA,GDP (current US$),NY.GDP.MKTP.CD,2063514977334.32,1916933898038.36,1873288205186.45,1476107231194.11,1670647399034.67,1951923942083.32,2173665655937.27
+Brazil,BRA,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.32286905404399,1.783666761634,1.22077782360842,-3.2767587964736,4.76260437908608,3.01669435393015,2.90848048667777
+Brazil,BRA,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,8670,9140,9220,7910,7880,8240,9070
+Brazil,BRA,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,14030,14740,15320,15430,17120,18840,19990
+Brazil,BRA,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,1808496550031.44,1920050002129.84,1953066789009.92,1686362765402.33,1689214234004.24,1774306722167.31,1962339257716.99
+Brazil,BRA,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,2924570810530.11,3098565570921.3,3244270827745.74,3289682051501.6,3669595464809.27,4055711022422.35,4325589161713.06
+Brazil,BRA,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,14.6255875981079,15.0950416289449,15.5167907998924,16.1158206052173,19.521885019122,18.0882204442366,16.0859873495074
+Brazil,BRA,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,14.3117190041583,14.7439120323979,14.0664586517771,11.3500476471567,9.00153466515671,9.04578247691606,..
+Brazil,BRA,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,87,92,91,79,73,81,..
+Brazil,BRA,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,11.8007665046081,14.2412038806757,14.7673386775793,15.8485265356365,18.5469003894967,19.1853009729027,15.7436671722105
+Brazil,BRA,Income share held by lowest 20%,SI.DST.FRST.20,3.2,3.1,3.1,4.5,3.3,3.6,..
+Brazil,BRA,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.1885023093992,18.7490514525621,18.7546275712259,19.5061183910265,22.1234751937997,22.819456851691,22.2631820393204
+Brazil,BRA,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,3.67138451275035,4.49353433137021,4.22425886899158,6.47249960755747,13.047270877833,8.5702819532232,4.65899475870381
+Brazil,BRA,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,74.827,75.109,75.338,74.009,72.75,73.425,..
+Brazil,BRA,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,18.4560327491288,22.1567368825099,22.1156039339267,25.4396152301364,30.8566008780709,32.0904409488135,27.2537774326916
+Brazil,BRA,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.41402166797586,1.46967772350671,1.38279724638797,1.32666026860555,1.16368211072875,1.05342201124086,..
+Brazil,BRA,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,106.1217992,99.64002652,95.38505233,96.54706819,102.48887,98.89102076,..
+Brazil,BRA,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,15.3,15,14.8,14.5,14.3,14,..
+Brazil,BRA,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,108.2356937329,106.8817981416,107.0374943851,107.6735521872,123.2309620465,..,..
+Brazil,BRA,Net migration,SM.POP.NETM,56362,67934,69186,56880,20376,6425,6000
+Brazil,BRA,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,273869995.117188,444970001.220703,272500000,612539978.027344,1114540039.0625,577010009.765625,..
+Brazil,BRA,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,2698770651.24,2933489276.49,3213621676.71,3566219438.48,4102018147.7,4973758734.57,4433700953.4
+Brazil,BRA,Population density (people per sq. km of land area),EN.POP.DNST,24.9463349501205,25.1451389902538,25.3385176606278,25.5076253807665,25.6428132335663,..,..
+Brazil,BRA,Population growth (annual %),SP.POP.GROW,0.79226340042227,0.793768153848091,0.766107802084815,0.665176682246802,0.528590452919416,0.459583548488331,0.513716985680443
+Brazil,BRA,"Population, total",SP.POP.TOTL,208504960,210166592,211782878,213196304,214326223,215313498,216422446
+Brazil,BRA,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,5.3,5.3,5.4,2,5.8,3.5,..
+Brazil,BRA,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..,..,..,..,..
+Brazil,BRA,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5,0.5,0.5,0.6,0.6,0.6,..
+Brazil,BRA,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,3.5,..,..,..,..
+Brazil,BRA,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,..,..,..,..
+Brazil,BRA,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,27.8247298509471,28.5828852342878,29.1518761025088,25.6990311015294,27.3268878276443,29.6160361326009,..
+Brazil,BRA,"School enrollment, primary (% gross)",SE.PRM.ENRR,109.80850982666,108.623291015625,107.407470703125,105.498199462891,103.4716796875,..,..
+Brazil,BRA,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.00513005256653,1.00668001174927,1.00990998744965,1.00648999214172,..,..,..
+Brazil,BRA,"School enrollment, secondary (% gross)",SE.SEC.ENRR,103.015960693359,105.00707244873,103.953277587891,104.125999450684,106.651901245117,..,..
+Brazil,BRA,Surface area (sq. km),AG.SRF.TOTL.K2,8515770,8515770,8515770,8515770,8515770,..,..
+Brazil,BRA,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,13.605228515206,13.9401079935106,13.7376948362641,12.7193878571982,14.1366751318622,14.7258479184963,..
+Brazil,BRA,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,28.5782526119273,28.5782526119273,28.5782512013805,29.2372083081929,29.2563048918493,29.2563048918493,..
+Brazil,BRA,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,34.7679517027382,33.3092941558599,53.4690237633203,50.3500554801431,46.7185294130904,29.917550262596,..
+Brazil,BRA,Urban population growth (annual %),SP.URB.GROW,1.10209658803347,1.09455847667219,1.06023755345792,0.951553410794994,0.808423004096535,0.731782791660602,0.779482105140141
+Brazil,BRA,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,96.1,96.2,96.4,96.4,96.5,96.5,..
+Brazil,BRA,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8,99.7,99.8,99.7,99.5,100,..
+Brazil,BRA,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,19.9823013485833,20.443240830303,21.0763398725851,29.5894187957819,..,..,..
+Brazil,BRA,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,13.7086408761723,..,..,..,..
+Brazil,BRA,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Brazil,BRA,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,937.34289551,863.28173828,850.43286133,704.99536133,761.26776123,..,..
+Brazil,BRA,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,87.6779592819379,88.4905439034498,89.298795927984,90.0784764801568,90.8109852394536,90.8834993687823,..
+Brazil,BRA,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,98.4509560322469,98.6794937002595,98.9355439518362,99.3208587959277,99.5894010970371,99.5937713070223,..
+Brazil,BRA,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,45.8564188845104,46.8447320181984,47.8493130261362,48.7063179315612,49.5515086694254,49.5867372379443,..
+Brazil,BRA,"Population, male",SP.POP.TOTL.MA.IN,102567011,103354449,104119798,104779288,105291292,105733027,106241115
+Brazil,BRA,"Population, female",SP.POP.TOTL.FE.IN,105937948,106812144,107663080,108417015,109034931,109580471,110181331
+Brazil,BRA,Tax payments (number),IC.TAX.PAYM,9.61,9.61,9.61,..,..,..,..
+South America,(South America),"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,..,..,..,..,..,..,..
+South America,(South America),"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,..,..,..,..,..,..,..
+South America,(South America),"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,..,..,..,..,..,..,..
+South America,(South America),Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,..,..,..,..
+South America,(South America),CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,..,..,..,..,..,..,..
+South America,(South America),"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,..,..,..,..
+South America,(South America),Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,..,..,..,..,..,..,..
+South America,(South America),Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+South America,(South America),Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+South America,(South America),Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,..,..,..,..,..,..,..
+South America,(South America),"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,..,..,..,..,..,..,..
+South America,(South America),"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,..,..,..,..,..,..,..
+South America,(South America),"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,..,..,..,..,..,..,..
+South America,(South America),Forest area (sq. km),AG.LND.FRST.K2,..,..,..,..,..,..,..
+South America,(South America),GDP (current US$),NY.GDP.MKTP.CD,..,..,..,..,..,..,..
+South America,(South America),GDP growth (annual %),NY.GDP.MKTP.KD.ZG,..,..,..,..,..,..,..
+South America,(South America),"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,..,..,..,..,..,..,..
+South America,(South America),"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,..,..,..,..,..,..,..
+South America,(South America),"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,..,..,..,..,..,..,..
+South America,(South America),"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,..,..,..,..,..,..,..
+South America,(South America),Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,..,..,..,..,..,..,..
+South America,(South America),High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,..,..,..,..,..,..,..
+South America,(South America),"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,..,..,..,..,..,..,..
+South America,(South America),Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,..,..,..,..,..,..,..
+South America,(South America),Income share held by lowest 20%,SI.DST.FRST.20,..,..,..,..,..,..,..
+South America,(South America),"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,..,..,..,..,..,..,..
+South America,(South America),"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,..,..,..,..,..,..,..
+South America,(South America),"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,..,..,..,..,..,..,..
+South America,(South America),Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,..,..,..,..,..,..,..
+South America,(South America),Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,..,..,..,..,..,..,..
+South America,(South America),Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,..,..,..,..,..,..,..
+South America,(South America),"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,..,..,..,..,..,..,..
+South America,(South America),Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,..,..,..,..,..,..,..
+South America,(South America),Net migration,SM.POP.NETM,..,..,..,..,..,..,..
+South America,(South America),Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,..,..,..,..,..,..,..
+South America,(South America),"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,..,..,..,..,..,..,..
+South America,(South America),Population density (people per sq. km of land area),EN.POP.DNST,..,..,..,..,..,..,..
+South America,(South America),Population growth (annual %),SP.POP.GROW,..,..,..,..,..,..,..
+South America,(South America),"Population, total",SP.POP.TOTL,..,..,..,..,..,..,..
+South America,(South America),Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,..,..,..,..,..,..,..
+South America,(South America),Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..,..,..,..,..
+South America,(South America),"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,..,..,..,..,..,..,..
+South America,(South America),"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,..,..,..,..,..
+South America,(South America),"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,..,..,..,..
+South America,(South America),"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,..,..,..,..,..,..,..
+South America,(South America),"School enrollment, primary (% gross)",SE.PRM.ENRR,..,..,..,..,..,..,..
+South America,(South America),"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,..,..,..,..,..,..,..
+South America,(South America),"School enrollment, secondary (% gross)",SE.SEC.ENRR,..,..,..,..,..,..,..
+South America,(South America),Surface area (sq. km),AG.SRF.TOTL.K2,..,..,..,..,..,..,..
+South America,(South America),Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,..,..,..,..,..,..,..
+South America,(South America),Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,..,..,..,..,..,..,..
+South America,(South America),"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,..,..,..,..,..,..,..
+South America,(South America),Urban population growth (annual %),SP.URB.GROW,..,..,..,..,..,..,..
+South America,(South America),Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,..,..,..,..,..,..,..
+South America,(South America),Access to electricity (% of population),EG.ELC.ACCS.ZS,..,..,..,..,..,..,..
+South America,(South America),Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,..,..,..,..,..,..,..
+South America,(South America),"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,..,..,..,..,..
+South America,(South America),"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+South America,(South America),Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..,..,..,..,..,..
+South America,(South America),People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,..,..,..,..,..,..,..
+South America,(South America),People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,..,..,..,..,..,..,..
+South America,(South America),People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,..,..,..,..,..,..,..
+South America,(South America),"Population, male",SP.POP.TOTL.MA.IN,..,..,..,..,..,..,..
+South America,(South America),"Population, female",SP.POP.TOTL.FE.IN,..,..,..,..,..,..,..
+South America,(South America),Tax payments (number),IC.TAX.PAYM,..,..,..,..,..,..,..
+Ecuador,ECU,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,72.683,71.383,67.77,63.944,63.163,62.065,..
+Ecuador,ECU,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,7.90222040951574,7.64505894651271,7.78676467096136,8.38574810334215,7.99784979026547,7.17629160510665,7.67737671642516
+Ecuador,ECU,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.24136528028933,2.24136528028933,2.24136528028933,2.24136528028933,..,..,..
+Ecuador,ECU,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,95.6,95.9,97.2,99.4,..,..,..
+Ecuador,ECU,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,2.30876380731708,2.36682982605683,2.28505501120289,1.95757534925331,..,..,..
+Ecuador,ECU,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,77.9,..,..,..,..
+Ecuador,ECU,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,37.9954548616399,40.5008740373395,44.6430154491676,52.0875715969771,56.0854821029488,57.2234235229662,61.9767564344114
+Ecuador,ECU,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Ecuador,ECU,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Ecuador,ECU,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,21.4855873912769,23.5438708460917,24.0486348220803,23.2835624071198,27.0047095688028,30.7865967428238,29.0653688196742
+Ecuador,ECU,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,41157198885.5,44959257840.5,51895193768.6,56423149419.3,58070204212.9,60684713935.4,..
+Ecuador,ECU,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.174,2.133,2.088,2.051,2.026,2.003,..
+Ecuador,ECU,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,630838412.259198,1389282763.14022,979383496.243027,1095103900.76402,648567150.926887,880294803.529517,380335348.523188
+Ecuador,ECU,Forest area (sq. km),AG.LND.FRST.K2,126906.4,126263.7,125621,124978.3,124335.6,..,..
+Ecuador,ECU,GDP (current US$),NY.GDP.MKTP.CD,104467486000,107478962000,107595829000,95865472000,107435101000,116586079000,118844826000
+Ecuador,ECU,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,5.97039880954841,1.044295546927,0.165403532646692,-9.24509637743429,9.818417748417,6.18613907258741,2.35521790742197
+Ecuador,ECU,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,5960,6140,6100,5400,6080,6520,6510
+Ecuador,ECU,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,11570,11890,12190,11100,13240,14880,15510
+Ecuador,ECU,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,99488868338.5791,104395048464.987,105800600853.086,94925517367.5266,108200443400.441,117438906332.773,118390456739.654
+Ecuador,ECU,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,193264344525.78,202307594707.066,211369374304.621,195321092920.497,235695382943.671,267765274487.406,282205138253.353
+Ecuador,ECU,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,22.4803878213361,22.5404391233328,21.0492332374706,17.5849131583058,20.9726418928949,22.2936144889134,21.4485365984717
+Ecuador,ECU,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,7.95691634892711,5.29990881495296,5.52377825962259,4.28192654404974,4.84096323628915,6.71157923405729,..
+Ecuador,ECU,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,81,83,83,81,65,74,..
+Ecuador,ECU,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,22.1321359260048,24.4654772531205,24.0342151181344,20.7057500327125,26.1464891255606,30.8350656513631,28.7823855285042
+Ecuador,ECU,Income share held by lowest 20%,SI.DST.FRST.20,4.7,4.6,4.5,4.1,4.6,4.7,4.7
+Ecuador,ECU,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,28.4680086969835,28.0147495283775,26.6504605861627,23.9811347301352,27.4363822676538,29.2119799311546,26.8571330147768
+Ecuador,ECU,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,0.932031656124835,1.81939670683758,-0.0565751872692744,-1.82595644256135,2.04901082789537,2.19571108300103,-0.408196858042402
+Ecuador,ECU,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,76.972,77.094,77.297,72.153,73.67,77.894,..
+Ecuador,ECU,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,37.4585447571697,41.6872280549193,41.7237363355414,39.9236546814269,48.7633925154499,56.3592159231978,52.1890620631646
+Ecuador,ECU,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,2.36126338358467,2.35188715281228,2.18363240921904,2.37312249582349,2.24439369241334,2.15522186999422,..
+Ecuador,ECU,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,87.74901563,92.69594524,91.40531396,88.04208636,94.33558884,97.16544081,..
+Ecuador,ECU,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,14.4,13.9,13.5,13,12.6,12.2,..
+Ecuador,ECU,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,103.5794896784,112.9475755897,108.9735504698,93.7609656317,107.4244254634,..,..
+Ecuador,ECU,Net migration,SM.POP.NETM,49359,153372,71801,35894,35894,-20206,-21525
+Ecuador,ECU,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,211110000.610352,404079986.572266,506850006.103516,343750000,300779998.779297,376179992.675781,..
+Ecuador,ECU,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,2849068577.17312,3039078508.88019,3242684316.95308,3343696163.52993,4367441780.58814,4747980446.38852,5452432476.65757
+Ecuador,ECU,Population density (people per sq. km of land area),EN.POP.DNST,67.2287969077146,68.5121275567724,69.8330649057819,70.8189523272669,71.6610444516025,..,..
+Ecuador,ECU,Population growth (annual %),SP.POP.GROW,1.55335626648726,1.89090930713133,1.90968326333656,1.40190462603926,1.18206337539033,1.13559975243065,1.04712882938642
+Ecuador,ECU,"Population, total",SP.POP.TOTL,16696944,17015672,17343740,17588595,17797737,18001000,18190484
+Ecuador,ECU,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,3.2,3.3,3.6,6.5,3.6,3.2,3.8
+Ecuador,ECU,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,21.5,23.2,25,33,27.7,25.2,..
+Ecuador,ECU,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4,0.4,0.4,0.4,0.4,0.4,..
+Ecuador,ECU,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,5.2,..,..,..,..
+Ecuador,ECU,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,104.953086853027,103.487617492676,99.7453689575195,98.2158584594727,95.6902465820312,99.6715698242188,..
+Ecuador,ECU,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,21.2950676530407,24.3939631173095,22.9106548107819,20.2785661553552,23.3192121820565,24.5499193031331,..
+Ecuador,ECU,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.726547241211,101.090873718262,99.0661926269531,97.683967590332,96.8438568115234,97.5341033935547,..
+Ecuador,ECU,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.01995003223419,1.02191996574402,1.02401995658875,1.02296996116638,..,..,..
+Ecuador,ECU,"School enrollment, secondary (% gross)",SE.SEC.ENRR,102.619369506836,101.742309570312,100.285942077637,99.8858871459961,99.6560287475586,98.1546936035156,..
+Ecuador,ECU,Surface area (sq. km),AG.SRF.TOTL.K2,256370,256370,256370,256370,256370,..,..
+Ecuador,ECU,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,13.6893043126773,14.2925484323985,13.40088971302,12.9414347272775,12.7055177467813,13.0383442764852,..
+Ecuador,ECU,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.955139706334,14.955139706334,14.954923775647,15.083921772402,15.2502466986332,19.9727764004915,..
+Ecuador,ECU,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,29.1319839217799,35.6627409776718,35.8025777145649,41.3961983687961,22.6504629977213,14.4609569470502,..
+Ecuador,ECU,Urban population growth (annual %),SP.URB.GROW,1.76718316617636,2.12779093687571,2.16788118361711,1.68282668762884,1.48550489674713,1.45980276414989,1.39034614233661
+Ecuador,ECU,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,94.4,94.5,94.4,94.4,94.5,94.5,..
+Ecuador,ECU,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.2,98.7,99.1,98.9,100,100,..
+Ecuador,ECU,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,10.9580840386021,13.1277438452772,15.8559177732541,12.5420790843681,..,..,..
+Ecuador,ECU,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,12.3367929690456,..,..,..,..
+Ecuador,ECU,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Ecuador,ECU,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,470.80328369,494.71490479,484.36807251,471.87576294,494.30838013,..,..
+Ecuador,ECU,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,88.0877340678835,89.130641596456,90.0032406646583,90.8741257753774,91.7426911861146,92.2725010923607,..
+Ecuador,ECU,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,94.3131376557692,94.6622656055683,95.0112246263964,95.3597647097715,95.6779995112767,95.7033432314017,..
+Ecuador,ECU,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,41.9124459762847,41.9550403884084,41.9006209838432,41.8584793645654,41.8045362173887,41.5919958123263,..
+Ecuador,ECU,"Population, male",SP.POP.TOTL.MA.IN,8350700,8509651,8672767,8790148,8886835,8984602,9078518
+Ecuador,ECU,"Population, female",SP.POP.TOTL.FE.IN,8346245,8506021,8670974,8798448,8910903,9016398,9111966
+Ecuador,ECU,Tax payments (number),IC.TAX.PAYM,10,8,8,..,..,..,..
+Uruguay,URY,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,48.21,42.587,38.377,35.927,36.226,35.196,..
+Uruguay,URY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,5.40639557150932,5.72589953169104,6.44628815107903,7.30877976310986,7.9388146779215,6.97306442762986,5.60852029123049
+Uruguay,URY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.96963123644252,3.96963123644252,3.96963123644252,3.96963123644252,..,..,..
+Uruguay,URY,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,100,100,100,..,..,..
+Uruguay,URY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.78358950382795,1.91001452564632,1.98538155745128,1.89971905049917,..,..,..
+Uruguay,URY,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,..,..,..,..
+Uruguay,URY,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,53.3015437773413,52.4982542907676,52.6842511978683,57.7114486155184,55.5459832689797,56.6018554942862,63.0013560280994
+Uruguay,URY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Uruguay,URY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Uruguay,URY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,25.9311612176478,26.421659976166,27.718333861424,25.5550310314111,31.9820853475185,31.9521648717584,27.4978001359579
+Uruguay,URY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,..,..,..,..,..,..,..
+Uruguay,URY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.796,1.658,1.546,1.477,1.493,1.483,..
+Uruguay,URY,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,2686509353.42749,1726550037.27185,1469761178.68104,528083899.338936,3447525717.9693,8525527437.21311,-436298455.034619
+Uruguay,URY,Forest area (sq. km),AG.LND.FRST.K2,19680,19890,20100,20310,20520,..,..
+Uruguay,URY,GDP (current US$),NY.GDP.MKTP.CD,65006047680.3225,65344408987.1965,62222387928.9932,53668636567.8667,60760798595.5436,70164683290.3776,77240831587.167
+Uruguay,URY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.74037649262446,0.164518266525505,0.928565543252915,-7.38009884092411,5.56189279343275,4.70725761465232,0.3674751756175
+Uruguay,URY,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,16550,17530,18230,16000,16080,17800,19530
+Uruguay,URY,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,22090,22800,24310,24170,26280,29720,31690
+Uruguay,URY,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,56644986366.9734,60079283553.6514,62495607530.5299,54852984943.9422,55081354250.486,60921938376.5855,66854046461.5965
+Uruguay,URY,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,75613030424.254,78135289453.0905,83329830974.0522,82866708108.6273,90038825700.0613,101727324095.56,108468174493.868
+Uruguay,URY,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,15.9240061596136,14.8534539371168,14.1208003227863,16.4328297457766,18.2770167792027,18.9174755454575,17.2550890049815
+Uruguay,URY,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,8.49114263279873,7.63670382159395,8.29802507186468,9.8025032036597,8.60373400525292,9.56271219716004,..
+Uruguay,URY,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,96,97,96,95,93,96,..
+Uruguay,URY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,20.4467947700249,21.3698051051676,21.6861777159971,21.131116771206,24.8416527618674,26.8814528389314,24.2356880254726
+Uruguay,URY,Income share held by lowest 20%,SI.DST.FRST.20,5.9,5.9,5.8,5.7,5.7,5.6,..
+Uruguay,URY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,18.0318892717625,18.4311469092669,17.6171477668345,17.0725015936488,17.5567962653191,17.3014248561497,16.3582827989083
+Uruguay,URY,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,5.68018391620799,7.52555040430903,8.25648932486875,10.9764808841065,11.1806219609622,4.24465355140362,3.4309701895517
+Uruguay,URY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,77.625,77.611,77.508,78.43,75.436,78,..
+Uruguay,URY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,25.1453527529993,25.0840129309481,25.5952889789032,26.8834852582012,32.6773190263109,34.4290016959471,28.0667615230619
+Uruguay,URY,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.81361669130623,1.97127204651996,1.88538746667702,2.03583835576405,2.10130868239947,1.89979653202748,..
+Uruguay,URY,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,148.9559056,130.1172556,132.0241348,132.7256301,136.9212202,138.526391,..
+Uruguay,URY,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,8,7.7,7.3,7,6.8,6.6,..
+Uruguay,URY,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,102.3420801435,97.4121431155,100.4017764181,107.6139708214,103.9403547932,..,..
+Uruguay,URY,Net migration,SM.POP.NETM,-3090,-2963,-2902,-1486,-1486,-1500,-1500
+Uruguay,URY,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,41639999.3896484,..,..,..,779999.971389771,..,..
+Uruguay,URY,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,109381554.847967,113957699.424605,112271708.009377,111117391.316543,125733415.196075,124690721.224164,134368350.545402
+Uruguay,URY,Population density (people per sq. km of land area),EN.POP.DNST,19.5531939206948,19.5808593303622,19.588669866301,19.5925379956576,19.5763912695692,..,..
+Uruguay,URY,Population growth (annual %),SP.POP.GROW,0.24675383930737,0.141387931879728,0.0398806735871464,0.0197448194187447,-0.0824466091158564,-0.101211066400464,0.00917337117067443
+Uruguay,URY,"Population, total",SP.POP.TOTL,3422200,3427042,3428409,3429086,3426260,3422794,3423108
+Uruguay,URY,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.1,0.1,0.1,0.2,0.1,0.2,..
+Uruguay,URY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,..,..,..,..,..,9.9,..
+Uruguay,URY,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.6,0.6,0.6,0.6,0.6,0.6,..
+Uruguay,URY,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,1.8,..,..,..,..,..
+Uruguay,URY,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,97.1667633056641,101.573883056641,..,100.927543640137,100.503540039062,..,..
+Uruguay,URY,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,19.8522413696815,20.3021680085715,19.6462870209813,20.3774365412413,..,..,..
+Uruguay,URY,"School enrollment, primary (% gross)",SE.PRM.ENRR,107.146530151367,105.275650024414,104.354148864746,105.236610412598,107.99080657959,105.501998901367,..
+Uruguay,URY,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.04990005493164,1.05440998077393,1.05744004249573,1.05238997936249,..,..,..
+Uruguay,URY,"School enrollment, secondary (% gross)",SE.SEC.ENRR,116.472846984863,117.769058227539,119.848533630371,116.991828918457,120.236488342285,120.764999389648,..
+Uruguay,URY,Surface area (sq. km),AG.SRF.TOTL.K2,176220,176220,176220,176220,176220,..,..
+Uruguay,URY,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,18.0774640570504,18.3247513517254,17.8650730717933,18.5148717533759,..,..,..
+Uruguay,URY,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,2.29507712745326,2.29507712745326,2.29507734528862,2.44221612146411,2.44278917903604,2.44278917903604,..
+Uruguay,URY,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,..,..,..,..,..,..,..
+Uruguay,URY,Urban population growth (annual %),SP.URB.GROW,0.347579383128451,0.240039131939052,0.136356775420801,0.112939218971122,0.0096475323000025,-0.0123343525613535,0.0958869986376278
+Uruguay,URY,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,..
+Uruguay,URY,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8,99.8,99.9,100,100,100,..
+Uruguay,URY,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,4.43078628083254,4.57748511502279,4.89533041324927,5.55183201953526,..,..,..
+Uruguay,URY,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,7.15428871700658,..,..,..,..
+Uruguay,URY,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Uruguay,URY,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,1655.83239746,1697.01452637,1677.09790039,1427.14025879,1620.32641602,..,..
+Uruguay,URY,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,97.1921513915642,97.4803556936285,97.7678001669948,98.054528854659,98.3258818644979,98.3248312886721,..
+Uruguay,URY,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.3980706091476,99.4785987119326,99.4872379896577,99.4957570735158,99.504241877115,99.5079806151954,..
+Uruguay,URY,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,..,..,..,..,..,..,..
+Uruguay,URY,"Population, male",SP.POP.TOTL.MA.IN,1654653,1657819,1659147,1660166,1659492,1658372,1659092
+Uruguay,URY,"Population, female",SP.POP.TOTL.FE.IN,1767547,1769223,1769262,1768921,1766768,1764421,1764016
+Uruguay,URY,Tax payments (number),IC.TAX.PAYM,20,20,20,..,..,..,..
+Paraguay,PRY,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,73.784,73.67,72.448,71.302,70.347,69.916,..
+Paraguay,PRY,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,10.1848244821521,9.95020338548856,9.66747366416727,10.7279902822144,11.2789007802766,10.8974804512645,11.348849122098
+Paraguay,PRY,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,2.06239316239316,2.06239316239316,2.06239316239316,2.06239316239316,..,..,..
+Paraguay,PRY,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,97.3,97.7,92.2,..,..,..,..
+Paraguay,PRY,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,1.24632517460731,1.29748167406657,1.24066887329392,1.14459119207034,..,..,..
+Paraguay,PRY,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,..,..,..,..
+Paraguay,PRY,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,..,..,..,..,..,..,..
+Paraguay,PRY,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Paraguay,PRY,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Paraguay,PRY,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,38.1692845403814,36.8532235364332,36.0872909434467,33.2706269850168,35.4870925101591,34.3693845850532,42.5476516669139
+Paraguay,PRY,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,17047059548.8,17183302979.9,17639968576.2,20727223299.6,22193192181.7,24514706328.8,..
+Paraguay,PRY,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,2.591,2.561,2.525,2.497,2.469,2.444,..
+Paraguay,PRY,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,586620308.204757,226982788.908632,409374269.807467,198452641.754021,305820322.195915,672035411.403589,240716542.910117
+Paraguay,PRY,Forest area (sq. km),AG.LND.FRST.K2,169402.7,166609.3,163816,161022.6,158229.267,..,..
+Paraguay,PRY,GDP (current US$),NY.GDP.MKTP.CD,38997129473.5558,40225448340.6322,37925338329.1494,35432178068.1814,39950899938.7482,41952910858.0846,42956263543.9482
+Paraguay,PRY,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,4.81007885554041,3.20425034076639,-0.40185510068001,-0.819785390971916,4.01673731780312,0.176038366132886,4.71412407945468
+Paraguay,PRY,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,5800,6040,5940,5540,5730,5900,6200
+Paraguay,PRY,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,13460,13620,13690,13790,14830,15760,16910
+Paraguay,PRY,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,36843967480.3547,38938699125.6638,38782939603.8867,36672864162.8086,38413518863.984,40038668416.3582,42537624853.6259
+Paraguay,PRY,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,85525902667.2573,87728090200.2225,89370904878.7433,91262049579.3561,99405231283.4861,106831712487.21,116016702117.104
+Paraguay,PRY,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,20.6000429018101,22.7820847953337,21.6853116218616,20.0414603496168,23.9981273744231,27.6864351426555,19.6083334380963
+Paraguay,PRY,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,6.43135601964578,9.73585990716157,7.18301132925583,5.14832153749358,7.42054598468191,10.5616163812336,..
+Paraguay,PRY,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,92,93,87,80,68,54,..
+Paraguay,PRY,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,32.9108498634563,35.2160000894818,35.1348707907966,29.4895904898392,34.2551805109766,39.3685204368034,40.4411242072937
+Paraguay,PRY,Income share held by lowest 20%,SI.DST.FRST.20,4.7,4.8,4.8,5.3,5.5,5,..
+Paraguay,PRY,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,34.3937589134534,33.5561752136371,33.4893114331079,34.2042992219245,34.679689727134,34.2539657600776,32.3550820353229
+Paraguay,PRY,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,2.15920929174615,1.96024819846549,3.06187945458328,2.20392146778615,8.44812602664209,8.05446050272607,2.06875531020788
+Paraguay,PRY,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,73.644,73.568,73.621,73.182,70.262,70.475,..
+Paraguay,PRY,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,52.7090077589903,55.6264775733966,54.0852129570442,52.8756656278613,60.341569368801,61.5213568548516,65.1732662254424
+Paraguay,PRY,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,0.892663231219253,0.961156152749535,0.973840384070445,1.02757342677333,0.928803634265998,0.831483478747864,..
+Paraguay,PRY,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,117.5106256,115.4634996,118.8639678,118.8308269,118.9635011,127.7049687,..
+Paraguay,PRY,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,20.8,20.1,19.4,18.7,18.1,17.4,..
+Paraguay,PRY,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,99.2325149765,96.94591656,93.5732229642,124.8864109777,145.929267933,..,..
+Paraguay,PRY,Net migration,SM.POP.NETM,-16628,-16470,-16270,-8230,-8230,-12499,-12499
+Paraguay,PRY,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,142750000,164639999.389648,127449996.948242,304730010.986328,175139999.389648,96720001.2207031,..
+Paraguay,PRY,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,704079200,682869965.802626,665990282.4938,583714988.899737,585384046.208308,592286768.132379,745717992.636799
+Paraguay,PRY,Population density (people per sq. km of land area),EN.POP.DNST,15.9964862824062,16.2177900830607,16.436008054367,16.6591870123332,16.8733929020891,..,..
+Paraguay,PRY,Population growth (annual %),SP.POP.GROW,1.40691381584073,1.37397022115058,1.33657480808218,1.34872957032065,1.27761600231743,1.14124498151162,1.18427440537002
+Paraguay,PRY,"Population, total",SP.POP.TOTL,6355404,6443328,6530026,6618695,6703799,6780744,6861524
+Paraguay,PRY,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,1,1.4,1,0.8,0.7,1.3,..
+Paraguay,PRY,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,26.4,24.2,23.5,26.9,26.9,24.7,..
+Paraguay,PRY,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.4,0.4,0.4,0.5,0.5,0.5,..
+Paraguay,PRY,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,..,..,..,..,..
+Paraguay,PRY,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,..,..,..,82.9859771728516,..,86.167106628418,..
+Paraguay,PRY,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,14.2373729966651,14.1412787778341,14.138478649737,13.4645099324839,13.5842208460366,14.0658050570985,..
+Paraguay,PRY,"School enrollment, primary (% gross)",SE.PRM.ENRR,..,..,89.8880004882812,92.2833709716797,92.5459365844727,93.2309494018555,90.6060028076172
+Paraguay,PRY,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,..,..,..,..,..,..,..
+Paraguay,PRY,"School enrollment, secondary (% gross)",SE.SEC.ENRR,..,..,75.8560028076172,84.7876205444336,84.2880096435547,82.0107879638672,75.7210006713867
+Paraguay,PRY,Surface area (sq. km),AG.SRF.TOTL.K2,406752,406752,406752,406752,406752,..,..
+Paraguay,PRY,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,9.95843571495941,10.0751123841404,9.99587913160846,9.51500013060721,9.79425505793564,10.2661592909999,..
+Paraguay,PRY,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,14.3147360800329,14.3147360800329,14.3147200277861,14.3147200277861,14.3147200277861,14.3147200277861,..
+Paraguay,PRY,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,12.2608845836038,16.1085567885075,10.4854721294036,9.23343577524146,8.39104693178462,14.1602733918724,..
+Paraguay,PRY,Urban population growth (annual %),SP.URB.GROW,1.85491904278946,1.83782180433913,1.81282175775756,1.83880014219971,1.77970381658121,1.6551659920908,1.7098094138569
+Paraguay,PRY,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,67.2,67.7,68.1,68.3,68.6,68.5,..
+Paraguay,PRY,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3,99.6,99.7,99.7,100,100,..
+Paraguay,PRY,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,13.9467119682202,10.0590011389317,9.70493961899194,5.20639901000208,..,..,..
+Paraguay,PRY,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,13.954068845618,..,..,..,..
+Paraguay,PRY,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Paraguay,PRY,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,405.53366089,421.08627319,415.88879395,410.887146,478.70828247,..,..
+Paraguay,PRY,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,89.644686457493,90.6773914106948,91.7156741252874,92.7462736659838,93.6027455921369,94.5727484403312,..
+Paraguay,PRY,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,98.3671694137756,99.5224912893959,99.5911140188522,99.5934707827491,99.5958982324205,99.5983928104585,..
+Paraguay,PRY,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,52.8276855598966,53.364471821006,53.878091861667,54.3842697201129,54.7389072484474,55.1931316754758,..
+Paraguay,PRY,"Population, male",SP.POP.TOTL.MA.IN,3194330,3237726,3280434,3323985,3365265,3402132,3441402
+Paraguay,PRY,"Population, female",SP.POP.TOTL.FE.IN,3161074,3205602,3249592,3294711,3338534,3378612,3420122
+Paraguay,PRY,Tax payments (number),IC.TAX.PAYM,19,19,19,..,..,..,..
+Chile,CHL,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,27.979,24.292,24.127,24.08,24.082,22.793,..
+Chile,CHL,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,4.28097161367726,3.92743592461123,3.987812171379,4.04542684409947,3.50375908647092,3.46215605787724,3.5202728754447
+Chile,CHL,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS,3.99638418079096,3.99638418079096,3.99638418079096,3.99638418079096,..,..,..
+Chile,CHL,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,99.8,99.8,99.8,..,..,..,..
+Chile,CHL,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC,4.74380241866313,4.62965705867727,4.82762007480769,4.39515106359663,..,..,..
+Chile,CHL,"Contraceptive prevalence, any method (% of married women ages 15-49)",SP.DYN.CONU.ZS,..,..,..,..,..,..,..
+Chile,CHL,Domestic credit provided by financial sector (% of GDP),FS.AST.DOMS.GD.ZS,128.905998197361,134.165138308804,143.51692083204,147.274957174506,127.196308184255,132.512191262731,130.092393849766
+Chile,CHL,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,..,..,..,..,..,..,..
+Chile,CHL,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,..,..,..,..,..,..,..
+Chile,CHL,Exports of goods and services (% of GDP),NE.EXP.GNFS.ZS,28.3313768335469,28.5290447397051,27.8746677570512,31.3303902428612,31.9735835020867,35.515107072528,31.1367365250198
+Chile,CHL,"External debt stocks, total (DOD, current US$)",DT.DOD.DECT.CD,..,..,..,..,..,..,..
+Chile,CHL,"Fertility rate, total (births per woman)",SP.DYN.TFRT.IN,1.598,1.564,1.545,1.537,1.537,1.539,..
+Chile,CHL,"Foreign direct investment, net inflows (BoP, current US$)",BX.KLT.DINV.CD.WD,5237183518.21249,7942631935.04914,13579090978.7595,11447397288.6176,15176902318.5544,18236599109.4303,21737835925.3814
+Chile,CHL,Forest area (sq. km),AG.LND.FRST.K2,178419.4,179648.7,180878,182107,183336.2,..,..
+Chile,CHL,GDP (current US$),NY.GDP.MKTP.CD,276154259987.103,295857562991.709,278285058719.466,254042159309.311,315515014838.539,302116539409.03,335533331669.219
+Chile,CHL,GDP growth (annual %),NY.GDP.MKTP.KD.ZG,1.35769537797211,3.99002947521676,0.634367533828438,-6.14347479224092,11.3339570691911,2.05874008095333,0.218780666901552
+Chile,CHL,"GNI per capita, Atlas method (current US$)",NY.GNP.PCAP.CD,13330,14610,14820,13010,14760,15430,15820
+Chile,CHL,"GNI per capita, PPP (current international $)",NY.GNP.PCAP.PP.CD,23590,24520,24860,23860,27410,30080,31590
+Chile,CHL,"GNI, Atlas method (current US$)",NY.GNP.ATLS.CD,244936721608.543,273178462221.407,282097292463.016,251017616877.927,287802403769.07,302412917704.423,310627607160.062
+Chile,CHL,"GNI, PPP (current international $)",NY.GNP.MKTP.PP.CD,433363834230.02,458498081287.065,473247900288.57,460414037004.302,534250853280.618,589663094922.153,620096013901.947
+Chile,CHL,Gross capital formation (% of GDP),NE.GDI.TOTL.ZS,22.636669962414,24.2030784241886,24.9390098912825,21.0582071011998,24.0686079961728,25.5883785104755,22.9537913250417
+Chile,CHL,High-technology exports (% of manufactured exports),TX.VAL.TECH.MF.ZS,7.09873836832882,6.9108229455209,7.63271462272043,15.9750163406527,12.4417346556093,6.29028856750921,..
+Chile,CHL,"Immunization, measles (% of children ages 12-23 months)",SH.IMM.MEAS,93,93,95,91,92,94,..
+Chile,CHL,Imports of goods and services (% of GDP),NE.IMP.GNFS.ZS,27.6947821330283,29.6480058934679,29.7370868110317,26.8524733201136,32.8648637520698,39.4726731414487,29.8303574695752
+Chile,CHL,Income share held by lowest 20%,SI.DST.FRST.20,5.6,..,..,4.9,..,5.9,..
+Chile,CHL,"Industry (including construction), value added (% of GDP)",NV.IND.TOTL.ZS,27.3811560666543,27.8615227738238,27.1184422429165,29.8295676046618,30.8838655825021,31.2573342858236,29.6651664091037
+Chile,CHL,"Inflation, GDP deflator (annual %)",NY.GDP.DEFL.KD.ZG,4.82819188168904,1.59019973757384,2.56778721379496,9.66572269693961,6.9147558846894,7.91378346570282,6.59951204566833
+Chile,CHL,"Life expectancy at birth, total (years)",SP.DYN.LE00.IN,80.35,80.133,80.326,79.377,78.944,79.519,..
+Chile,CHL,Merchandise trade (% of GDP),TG.VAL.TOTL.GD.ZS,48.5427963364608,50.5145105937982,49.8226533030541,52.444051161518,59.3226918521715,67.2184318002718,53.7779656948917
+Chile,CHL,Military expenditure (% of GDP),MS.MIL.XPND.GD.ZS,1.94059253045695,1.87761395663911,1.86200539727185,2.09077465277936,1.93228691717414,1.8339814713597,..
+Chile,CHL,Mobile cellular subscriptions (per 100 people),IT.CEL.SETS.P2,125.28541,134.6365175,131.5774455,129.8851806,136.3134058,134.7453263,..
+Chile,CHL,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT,7.6,7.4,7.1,6.9,6.6,6.3,..
+Chile,CHL,Net barter terms of trade index (2015 = 100),TT.PRI.MRCH.XD.WD,114.262290128,111.3294798027,109.3518401244,121.8206170405,136.140660701,..,..
+Chile,CHL,Net migration,SM.POP.NETM,214697,237358,230162,98439,113709,-66850,-71205
+Chile,CHL,Net official development assistance and official aid received (current US$),DT.ODA.ALLD.CD,70309997.5585938,..,..,..,1350000.02384186,..,..
+Chile,CHL,"Personal remittances, received (current US$)",BX.TRF.PWKR.CD.DT,66541753.587694,69856849.7873431,69372771.3618018,66197477.5911306,66484972.9580665,69392670.4342172,70131652.4230778
+Chile,CHL,Population density (people per sq. km of land area),EN.POP.DNST,24.7044875002017,25.1521790588704,25.6068131566631,25.9576117773008,26.2170074724423,..,..
+Chile,CHL,Population growth (annual %),SP.POP.GROW,1.56205545588869,1.79596279901203,1.7913919716665,1.36064363430941,0.994344898418259,0.565514127974157,0.131811438677878
+Chile,CHL,"Population, total",SP.POP.TOTL,18368577,18701450,19039485,19300315,19493184,19603733,19629590
+Chile,CHL,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY,0.4,..,..,1.3,..,0.4,..
+Chile,CHL,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC,8.6,..,..,10.8,..,6.5,..
+Chile,CHL,"Prevalence of HIV, total (% of population ages 15-49)",SH.DYN.AIDS.ZS,0.5,0.5,0.5,0.6,0.6,0.6,..
+Chile,CHL,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS,..,..,..,..,..,..,..
+Chile,CHL,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS,98.1549530029297,98.1518325805664,97.4453201293945,97.9685821533203,99.2180786132812,100.269378662109,..
+Chile,CHL,"Revenue, excluding grants (% of GDP)",GC.REV.XGRT.GD.ZS,21.1680432161024,22.1740306166793,21.739927149931,19.9382667510933,24.1528969487593,26.0044134851018,..
+Chile,CHL,"School enrollment, primary (% gross)",SE.PRM.ENRR,101.396278381348,101.538017272949,101.193206787109,99.7043991088867,99.3652267456055,100.192268371582,..
+Chile,CHL,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.987600028514862,0.98565000295639,0.982060015201569,0.979330003261566,..,..,..
+Chile,CHL,"School enrollment, secondary (% gross)",SE.SEC.ENRR,102.294822692871,103.173049926758,104.405769348145,103.691688537598,106.673522949219,106.068328857422,..
+Chile,CHL,Surface area (sq. km),AG.SRF.TOTL.K2,756700,756700,756700,756700,756700,..,..
+Chile,CHL,Tax revenue (% of GDP),GC.TAX.TOTL.GD.ZS,17.5057946830766,18.3955244984111,17.7188527688584,16.1961693332108,19.6644047302073,21.2736151328078,..
+Chile,CHL,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS,27.0392385768099,27.0392385768099,37.6184456529839,37.8113605117008,37.8113605117008,37.8614581067479,..
+Chile,CHL,"Total debt service (% of exports of goods, services and primary income)",DT.TDS.DECT.EX.ZS,..,..,..,..,..,..,..
+Chile,CHL,Urban population growth (annual %),SP.URB.GROW,1.63980683517514,1.8805102183162,1.88157002434462,1.45643812253223,1.09688301329068,0.673638885028903,0.245496926597844
+Chile,CHL,Access to clean fuels and technologies for cooking (% of population),EG.CFT.ACCS.ZS,100,100,100,100,100,100,..
+Chile,CHL,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7,100,100,100,100,100,..
+Chile,CHL,Adequacy of social safety net programs (% of total welfare of beneficiary households),per_sa_allsa.adq_pop_tot,8.02914465254474,..,..,12.4164342987128,..,..,..
+Chile,CHL,"Cause of death, by communicable diseases and maternal, prenatal and nutrition conditions (% of total)",SH.DTH.COMM.ZS,..,..,7.11162087300677,..,..,..,..
+Chile,CHL,"Children in employment, wage workers (% of children in employment, ages 7-14)",SL.WAG.0714.ZS,..,..,..,..,..,..,..
+Chile,CHL,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,1367.71643066,1457.27282715,1369.48400879,1280.63232422,1518.04003906,1380.68823242,..
+Chile,CHL,People using at least basic sanitation services (% of population),SH.STA.BASS.ZS,100,100,100,100,100,99.9999982963226,..
+Chile,CHL,People using at least basic drinking water services (% of population),SH.H2O.BASW.ZS,99.9654459534359,100,100,100,100,99.9999982963226,..
+Chile,CHL,People using safely managed sanitation services (% of population),SH.STA.SMSS.ZS,95.2167149593196,95.1685815483645,95.2356042497103,95.2628448029614,95.2920244547787,95.3228228384528,..
+Chile,CHL,"Population, male",SP.POP.TOTL.MA.IN,9114379,9281300,9450404,9579957,9675022,9729531,9741974
+Chile,CHL,"Population, female",SP.POP.TOTL.FE.IN,9254199,9420150,9589082,9720358,9818163,9874202,9887616
+Chile,CHL,Tax payments (number),IC.TAX.PAYM,7,7,7,..,..,..,..
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,
+Last Updated: 09/19/2024,,,,,,,,,,
