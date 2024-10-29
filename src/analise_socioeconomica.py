@@ -56,7 +56,7 @@ sns.boxplot(x='GNI', y='Total Fatalities', data=df)
 plt.title('Correlação entre Renda per capita e Total de Fatalidades')
 plt.xlabel('GNI per capita (US$)')
 plt.ylabel('Total de Fatalidades')
-plt.savefig('outputs/graficos/correlacao_gni_fatalidades.png')
+plt.savefig('outputs/graficos/gni_total_fatalidades.png')
 plt.show()
 
 # Análise 2: Comparação das Taxas de Desenvolvimento por País
@@ -71,7 +71,7 @@ plt.title('Indicadores de Desenvolvimento por País')
 plt.xlabel('País')
 plt.ylabel('Indicadores de Desenvolvimento (%)')
 plt.legend(title='Indicadores')
-plt.savefig('outputs/graficos/indicadores_desenvolvimento_por_pais.png')
+plt.savefig('outputs/graficos/indicadores_desenvolvimento.png')
 plt.show()
 
 
@@ -105,4 +105,6 @@ for index, row in df_mortes.iterrows():
 
 # Exportação do relatório final
 df.to_csv('outputs/relatorio_analise.csv', index=False)
+
+
 print("Relatório exportado para outputs/relatorio_analise.csv")
